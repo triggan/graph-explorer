@@ -1,0 +1,24 @@
+{
+  "id": "System Requirements/systemrequirements",
+  "title": "System Requirements",
+  "description": "",
+  "source": "@site/docs/System Requirements/systemrequirements.md",
+  "sourceDirName": "System Requirements",
+  "slug": "/",
+  "permalink": "/graph-explorer/docsite/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/System Requirements/systemrequirements.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph Explorer",
+    "permalink": "/graph-explorer/docsite/"
+  }
+}

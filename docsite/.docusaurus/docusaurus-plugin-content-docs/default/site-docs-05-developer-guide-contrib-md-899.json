@@ -1,0 +1,27 @@
+{
+  "id": "Developer Guide/contrib",
+  "title": "Contributing",
+  "description": "",
+  "source": "@site/docs/05-Developer Guide/contrib.md",
+  "sourceDirName": "05-Developer Guide",
+  "slug": "/Developer Guide/contrib",
+  "permalink": "/graph-explorer/docsite/Developer Guide/contrib",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/05-Developer Guide/contrib.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Build Graph Explorer from source",
+    "permalink": "/graph-explorer/docsite/Developer Guide/buildfromsource"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/graph-explorer/docsite/Developer Guide/roadmap"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Developer Guide/roadmap",
+  "title": "Contributing",
+  "description": "",
+  "source": "@site/docs/05-Developer Guide/roadmap.md",
+  "sourceDirName": "05-Developer Guide",
+  "slug": "/Developer Guide/roadmap",
+  "permalink": "/graph-explorer/docsite/Developer Guide/roadmap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/05-Developer Guide/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/graph-explorer/docsite/Developer Guide/contrib"
+  }
+}

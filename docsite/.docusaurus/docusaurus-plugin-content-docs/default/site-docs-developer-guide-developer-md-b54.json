@@ -1,0 +1,24 @@
+{
+  "id": "Developer Guide/developer",
+  "title": "developer",
+  "description": "",
+  "source": "@site/docs/Developer Guide/developer.md",
+  "sourceDirName": "Developer Guide",
+  "slug": "/Developer Guide/developer",
+  "permalink": "/graph-explorer/docsite/Developer Guide/developer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/Developer Guide/developer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Requirements",
+    "permalink": "/graph-explorer/docsite/systemrequirements"
+  },
+  "next": {
+    "title": "Deployment Models",
+    "permalink": "/graph-explorer/docsite/Getting Started/deployment-models"
+  }
+}

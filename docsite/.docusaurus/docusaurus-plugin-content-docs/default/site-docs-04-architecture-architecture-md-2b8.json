@@ -1,0 +1,27 @@
+{
+  "id": "Architecture/architecture",
+  "title": "How Graph Explorer Works",
+  "description": "",
+  "source": "@site/docs/04-Architecture/architecture.md",
+  "sourceDirName": "04-Architecture",
+  "slug": "/Architecture/architecture",
+  "permalink": "/graph-explorer/docsite/Architecture/architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/04-Architecture/architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment Models",
+    "permalink": "/graph-explorer/docsite/Getting Started/deployment-models"
+  },
+  "next": {
+    "title": "Managing Connections",
+    "permalink": "/graph-explorer/docsite/Configuration/connections"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Troubleshooting/tshooting",
+  "title": "Common Issues",
+  "description": "",
+  "source": "@site/docs/08-Troubleshooting/tshooting.md",
+  "sourceDirName": "08-Troubleshooting",
+  "slug": "/Troubleshooting/tshooting",
+  "permalink": "/graph-explorer/docsite/Troubleshooting/tshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/08-Troubleshooting/tshooting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using Amazon Cognito with Graph Explorer",
+    "permalink": "/graph-explorer/docsite/Advanced Deployments/usingcognito"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/graph-explorer/docsite/Developer Guide/contrib"
+  }
+}

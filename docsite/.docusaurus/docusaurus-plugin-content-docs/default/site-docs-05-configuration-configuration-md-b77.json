@@ -1,0 +1,24 @@
+{
+  "id": "Configuration/configuration",
+  "title": "configuration",
+  "description": "",
+  "source": "@site/docs/05-Configuration/configuration.md",
+  "sourceDirName": "05-Configuration",
+  "slug": "/Configuration/configuration",
+  "permalink": "/graph-explorer/docsite/Configuration/configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/05-Configuration/configuration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "architecture",
+    "permalink": "/graph-explorer/docsite/Architecture/architecture"
+  },
+  "next": {
+    "title": "visualizing",
+    "permalink": "/graph-explorer/docsite/Visualizing Graphs/visualizing"
+  }
+}

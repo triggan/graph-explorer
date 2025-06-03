@@ -1,0 +1,24 @@
+{
+  "id": "developer-guide/index",
+  "title": "Developer Guide",
+  "description": "",
+  "source": "@site/docs/10-developer-guide/index.md",
+  "sourceDirName": "10-developer-guide",
+  "slug": "/developer-guide/",
+  "permalink": "/graph-explorer/docsite/developer-guide/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/10-developer-guide/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Developer Guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Build Graph Explorer from source",
+    "permalink": "/graph-explorer/docsite/developer-guide/buildfromsource"
+  }
+}

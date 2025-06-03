@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/graph-explorer/docsite/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/graph-explorer/docsite/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "Advanced Deployments/containerenvvars",
+              "path": "/graph-explorer/docsite/Advanced Deployments/containerenvvars",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Advanced Deployments/deployinginecs",
+              "path": "/graph-explorer/docsite/Advanced Deployments/deployinginecs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Advanced Deployments/deployingineks",
+              "path": "/graph-explorer/docsite/Advanced Deployments/deployingineks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Advanced Deployments/usingcognito",
+              "path": "/graph-explorer/docsite/Advanced Deployments/usingcognito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer Guide/buildfromsource",
+              "path": "/graph-explorer/docsite/Developer Guide/buildfromsource",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer Guide/contrib",
+              "path": "/graph-explorer/docsite/Developer Guide/contrib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer Guide/roadmap",
+              "path": "/graph-explorer/docsite/Developer Guide/roadmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/architecture",
+              "path": "/graph-explorer/docsite/Getting Started/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/deployment-models",
+              "path": "/graph-explorer/docsite/Getting Started/deployment-models",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/systemrequirements",
+              "path": "/graph-explorer/docsite/Getting Started/systemrequirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/graph-explorer/docsite/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Graph Explorer/connections",
+              "path": "/graph-explorer/docsite/Using Graph Explorer/connections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Graph Explorer/tshooting",
+              "path": "/graph-explorer/docsite/Using Graph Explorer/tshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Graph Explorer/visualizing",
+              "path": "/graph-explorer/docsite/Using Graph Explorer/visualizing",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/graph-explorer/docsite/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

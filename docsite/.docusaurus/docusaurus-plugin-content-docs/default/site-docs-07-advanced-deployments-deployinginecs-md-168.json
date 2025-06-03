@@ -1,0 +1,27 @@
+{
+  "id": "Advanced Deployments/deployinginecs",
+  "title": "Deploying Graph Explorer in Amazon ECS",
+  "description": "",
+  "source": "@site/docs/07-Advanced Deployments/deployinginecs.md",
+  "sourceDirName": "07-Advanced Deployments",
+  "slug": "/Advanced Deployments/deployinginecs",
+  "permalink": "/graph-explorer/docsite/Advanced Deployments/deployinginecs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/07-Advanced Deployments/deployinginecs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Container Configuration Options",
+    "permalink": "/graph-explorer/docsite/Advanced Deployments/containerenvvars"
+  },
+  "next": {
+    "title": "Deploying Graph Explorer in Amazon EKS",
+    "permalink": "/graph-explorer/docsite/Advanced Deployments/deployingineks"
+  }
+}

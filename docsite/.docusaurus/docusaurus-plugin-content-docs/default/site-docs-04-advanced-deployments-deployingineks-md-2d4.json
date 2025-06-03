@@ -1,0 +1,27 @@
+{
+  "id": "Advanced Deployments/deployingineks",
+  "title": "Deploying Graph Explorer in Amazon EKS",
+  "description": "",
+  "source": "@site/docs/04-Advanced Deployments/deployingineks.md",
+  "sourceDirName": "04-Advanced Deployments",
+  "slug": "/Advanced Deployments/deployingineks",
+  "permalink": "/graph-explorer/docsite/Advanced Deployments/deployingineks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/04-Advanced Deployments/deployingineks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploying Graph Explorer in Amazon ECS",
+    "permalink": "/graph-explorer/docsite/Advanced Deployments/deployinginecs"
+  },
+  "next": {
+    "title": "Using Amazon Cognito with Graph Explorer",
+    "permalink": "/graph-explorer/docsite/Advanced Deployments/usingcognito"
+  }
+}

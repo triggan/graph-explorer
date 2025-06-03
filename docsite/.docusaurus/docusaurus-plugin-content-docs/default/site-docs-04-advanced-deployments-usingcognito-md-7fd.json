@@ -1,0 +1,27 @@
+{
+  "id": "Advanced Deployments/usingcognito",
+  "title": "Using Amazon Cognito with Graph Explorer",
+  "description": "",
+  "source": "@site/docs/04-Advanced Deployments/usingcognito.md",
+  "sourceDirName": "04-Advanced Deployments",
+  "slug": "/Advanced Deployments/usingcognito",
+  "permalink": "/graph-explorer/docsite/Advanced Deployments/usingcognito",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/04-Advanced Deployments/usingcognito.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploying Graph Explorer in Amazon EKS",
+    "permalink": "/graph-explorer/docsite/Advanced Deployments/deployingineks"
+  },
+  "next": {
+    "title": "Build Graph Explorer from source",
+    "permalink": "/graph-explorer/docsite/Developer Guide/buildfromsource"
+  }
+}

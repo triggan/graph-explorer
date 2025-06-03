@@ -1,0 +1,27 @@
+{
+  "id": "Getting Started/systemrequirements",
+  "title": "System Requirements",
+  "description": "Graph Explorer works with many different graph databases.  Support may be limited based on the query languages supported and the client libraries used for each supported query language.",
+  "source": "@site/docs/02-Getting Started/systemrequirements.md",
+  "sourceDirName": "02-Getting Started",
+  "slug": "/Getting Started/systemrequirements",
+  "permalink": "/graph-explorer/docsite/Getting Started/systemrequirements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/02-Getting Started/systemrequirements.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph Explorer",
+    "permalink": "/graph-explorer/docsite/"
+  },
+  "next": {
+    "title": "Deployment Models",
+    "permalink": "/graph-explorer/docsite/Getting Started/deployment-models"
+  }
+}

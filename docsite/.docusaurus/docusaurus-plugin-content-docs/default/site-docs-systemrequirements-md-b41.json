@@ -1,0 +1,27 @@
+{
+  "id": "systemrequirements",
+  "title": "System Requirements",
+  "description": "Graph Explorer does not block any particular versions of graph databases, but the queries used may or may not succeed based on the version of the query engine.",
+  "source": "@site/docs/systemrequirements.md",
+  "sourceDirName": ".",
+  "slug": "/systemrequirements",
+  "permalink": "/graph-explorer/docsite/systemrequirements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/systemrequirements.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph Explorer",
+    "permalink": "/graph-explorer/docsite/"
+  },
+  "next": {
+    "title": "Deployment Models",
+    "permalink": "/graph-explorer/docsite/Getting Started/deployment-models"
+  }
+}

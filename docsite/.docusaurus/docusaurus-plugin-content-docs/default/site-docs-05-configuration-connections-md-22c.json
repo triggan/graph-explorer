@@ -1,0 +1,27 @@
+{
+  "id": "Configuration/connections",
+  "title": "Managing Connections",
+  "description": "",
+  "source": "@site/docs/05-Configuration/connections.md",
+  "sourceDirName": "05-Configuration",
+  "slug": "/Configuration/connections",
+  "permalink": "/graph-explorer/docsite/Configuration/connections",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/05-Configuration/connections.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How Graph Explorer Works",
+    "permalink": "/graph-explorer/docsite/Architecture/architecture"
+  },
+  "next": {
+    "title": "How to Visualize Your Graph",
+    "permalink": "/graph-explorer/docsite/Visualizing Graphs/visualizing"
+  }
+}

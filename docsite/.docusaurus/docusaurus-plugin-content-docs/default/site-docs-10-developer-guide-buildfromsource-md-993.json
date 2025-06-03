@@ -1,0 +1,23 @@
+{
+  "id": "Developer Guide/buildfromsource",
+  "title": "Build Graph Explorer from source",
+  "description": "",
+  "source": "@site/docs/10-Developer Guide/buildfromsource.md",
+  "sourceDirName": "10-Developer Guide",
+  "slug": "/Developer Guide/buildfromsource",
+  "permalink": "/graph-explorer/docsite/Developer Guide/buildfromsource",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/10-Developer Guide/buildfromsource.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/graph-explorer/docsite/Developer Guide/contrib"
+  }
+}

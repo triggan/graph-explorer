@@ -1,0 +1,27 @@
+{
+  "id": "Getting Started/deployment-models",
+  "title": "Deployment Models",
+  "description": "The AWS Graph Explorer project provides a container image to quickly get started with visualizating data from within your graph database.  The container image can be used in either a self-managed deployment or using AWS managed services.  The following two options are documented below.  If you want to build the entire project from source, please refer to the developer documentation.",
+  "source": "@site/docs/03-Getting Started/deployment-models.md",
+  "sourceDirName": "03-Getting Started",
+  "slug": "/Getting Started/deployment-models",
+  "permalink": "/graph-explorer/docsite/Getting Started/deployment-models",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://triggan.github.io/graph-explorer/docsite/docs/03-Getting Started/deployment-models.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Requirements",
+    "permalink": "/graph-explorer/docsite/systemrequirements"
+  },
+  "next": {
+    "title": "How Graph Explorer Works",
+    "permalink": "/graph-explorer/docsite/Architecture/architecture"
+  }
+}
