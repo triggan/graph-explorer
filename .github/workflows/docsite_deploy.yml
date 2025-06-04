@@ -20,16 +20,19 @@ jobs:
         with:
           node-version: 18
           cache: npm
+          path: ./docsite
 
       - name: Install dependencies
         run: npm ci
+        working-directory: ./docsite
       - name: Build website
         run: npm build
+        working-directory: ./docsite
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build
+          path: ./docsite/build
 
   deploy:
     name: Deploy to GitHub Pages
