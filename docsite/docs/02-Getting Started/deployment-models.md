@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Deployment Models
 
-The AWS Graph Explorer project provides a container image to quickly get started with visualizating data from within your graph database.  The container image can be used in either a self-managed deployment or using AWS managed services.  The following two options are documented below.  If you want to build the entire project from source, please refer to the [developer documentation](../10-Developer%20Guide/buildfromsource.md).
+The AWS Graph Explorer project provides a container image to quickly get started with visualizating data from within your graph database.  The container image can be used in either a self-managed deployment or using AWS managed services.  The following two options are documented below.  If you want to build the entire project from source, please refer to the [developer documentation](../05-Developer%20Guide/buildfromsource.md).
 
 ## AWS Managed Graph Explorer
 
